@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "BenjoA2345",
+      "createdAt": 1709407999762,
+      "updatedAt": 1709407999762,
+      "name": "Jons Jam",
+      "id": "e72d"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "sku": "4572",
+      "name": "Apple iPhone 13",
+      "price": 450
+    },
+    {
+      "id": "2",
+      "sku": "1264",
+      "name": "Apple iPhone 13 pro",
+      "price": 320
+    },
+    {
+      "id": "3",
+      "sku": "7492",
+      "name": "Apple iPhone 14",
+      "price": 840
+    },
+    {
+      "id": "4",
+      "sku": "0482",
+      "name": "Apple iPhone 14 pro max",
+      "price": 950
+    },
+    {
+      "id": "5",
+      "sku": "0374",
+      "name": "Apple iPhone 15 plus",
+      "price": 999
+    }
+  ]
+}
