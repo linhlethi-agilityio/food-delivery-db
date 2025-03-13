@@ -17,232 +17,245 @@
       "id": "e71d"
     }
   ],
-  "products": {
-    "pizza": [
-      {
-        "id": "1",
-        "imageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2015/10/pizza-recipe-1.jpg",
-        "name": "Cheese Burger",
-        "price": 20,
-        "kcal": 655,
-        "description": "A juicy burger with melted cheese and fresh vegetables."
-      },
-      {
-        "id": "2",
-        "imageUrl": "https://recipesblob.oetker.in/assets/d8a4b00c292a43adbb9f96798e028f01/1272x764/pizza-pollo-arrostojpg.webp",
-        "name": "Pepperoni Pizza",
-        "price": 18,
-        "kcal": 700,
-        "description": "Classic pizza topped with pepperoni and mozzarella cheese."
-      },
-      {
-        "id": "3",
-        "imageUrl": "https://www.cobsbread.com/wp-content/uploads/2022/09/Pepperoni-pizza-850x630-1-585x400-1.jpg",
-        "name": "Margherita Pizza",
-        "price": 16,
-        "kcal": 600,
-        "description": "Simple and delicious pizza with tomatoes, mozzarella, and basil."
-      },
-      {
-        "id": "4",
-        "imageUrl": "https://www.simplyrecipes.com/thmb/pjYMLcsKHkr8D8tYixmaFNxppPw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__09__easy-pepperoni-pizza-lead-3-8f256746d649404baa36a44d271329bc.jpg",
-        "name": "BBQ Chicken Pizza",
-        "price": 22,
-        "kcal": 720,
-        "description": "Savory pizza with grilled chicken, BBQ sauce, and onions."
-      },
-      {
-        "id": "5",
-        "imageUrl": "https://www.southernliving.com/thmb/3x3cJaiOvQ8-3YxtMQX0vvh1hQw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2652401_QFSSL_SupremePizza_00072-d910a935ba7d448e8c7545a963ed7101.jpg",
-        "name": "Veggie Pizza",
-        "price": 17,
-        "kcal": 580,
-        "description": "Loaded with fresh vegetables and gooey cheese."
-      },
-      {
-        "id": "6",
-        "imageUrl": "https://i.ytimg.com/vi/g79YVb0Exx8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB8xqn22tdVDXdgo8Kzmz74GeMPvg",
-        "name": "Hawaiian Pizza",
-        "price": 19,
-        "kcal": 650,
-        "description": "Sweet and salty combo of ham and pineapple."
-      }
-    ],
-    "burger": [
-      {
-        "id": "1",
-        "imageUrl": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/1:1/w_2560%2Cc_limit/Smashburger-recipe-120219.jpg",
-        "name": "Classic Beef Burger",
-        "price": 15,
-        "kcal": 750,
-        "description": "Tender beef patty with lettuce, tomato, and special sauce."
-      },
-      {
-        "id": "2",
-        "imageUrl": "https://www.allrecipes.com/thmb/UsNtGp9OgIsKw6cPqGQ-CxLmnTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-72657-best-hamburger-ever-ddmfs-4x3-hero-878e801ab30445988d007461782b3c25.jpg",
-        "name": "Chicken Burger",
-        "price": 14,
-        "kcal": 680,
-        "description": "Crispy chicken patty with mayo and pickles."
-      },
-      {
-        "id": "3",
-        "imageUrl": "https://t4.ftcdn.net/jpg/02/74/99/01/360_F_274990113_ffVRBygLkLCZAATF9lWymzE6bItMVuH1.jpg",
-        "name": "Vegan Burger",
-        "price": 16,
-        "kcal": 550,
-        "description": "Plant-based burger with avocado and sprouts."
-      },
-      {
-        "id": "4",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ec1febb58a4890157c8fbeb/19ebb9ed-4862-46e1-9f7c-4e5876730227/Beetroot-Burger.jpg",
-        "name": "Bacon Burger",
-        "price": 18,
-        "kcal": 800,
-        "description": "Juicy burger with crispy bacon and cheddar cheese."
-      },
-      {
-        "id": "5",
-        "imageUrl": "https://www.allrecipes.com/thmb/UsNtGp9OgIsKw6cPqGQ-CxLmnTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-72657-best-hamburger-ever-ddmfs-4x3-hero-878e801ab30445988d007461782b3c25.jpg",
-        "name": "Mushroom Swiss Burger",
-        "price": 17,
-        "kcal": 720,
-        "description": "Burger topped with sautéed mushrooms and Swiss cheese."
-      },
-      {
-        "id": "6",
-        "imageUrl": "https://playswellwithbutter.com/wp-content/uploads/2023/08/Wisconsin-Butter-Burgers-12.jpg",
-        "name": "Spicy Jalapeño Burger",
-        "price": 19,
-        "kcal": 770,
-        "description": "Burger with spicy jalapeños and pepper jack cheese."
-      }
-    ],
-    "asian cuisine": [
-      {
-        "id": "1",
-        "imageUrl": "https://fhafnb.com/wp-content/uploads/2023/12/Dim-Sum-China.jpg",
-        "name": "Pad Thai",
-        "price": 12,
-        "kcal": 500,
-        "description": "Stir-fried noodles with shrimp, peanuts, and lime."
-      },
-      {
-        "id": "2",
-        "imageUrl": "https://www.lakewoodranchmedicalcenter.com/sites/lakewoodranchmedicalcenter.com/files/chicken-soup-chinese-800x600.jpg",
-        "name": "Sushi Platter",
-        "price": 25,
-        "kcal": 650,
-        "description": "Assorted sushi rolls with soy sauce and wasabi."
-      },
-      {
-        "id": "3",
-        "imageUrl": "https://yourboulder.com/wp-content/uploads/2014/03/asian-food.jpg",
-        "name": "General Tso's Chicken",
-        "price": 14,
-        "kcal": 700,
-        "description": "Crispy chicken in a sweet and spicy sauce."
-      },
-      {
-        "id": "4",
-        "imageUrl": "https://media.licdn.com/dms/image/v2/D4D12AQHms6F-pcNR2g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1683198860500?e=2147483647&v=beta&t=_qRSCI5xNq-nocy4oHK9toJfFCTUg45rfqd8bGLqPfk",
-        "name": "Ramen",
-        "price": 13,
-        "kcal": 600,
-        "description": "Hot noodle soup with pork, egg, and vegetables."
-      },
-      {
-        "id": "5",
-        "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ed77949d651bd56c6f804a9285f7b0c0/aa13fff7e2466014ca51307be81e7738.jpeg",
-        "name": "Dim Sum",
-        "price": 20,
-        "kcal": 550,
-        "description": "Assorted dumplings with dipping sauces."
-      },
-      {
-        "id": "6",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0048/8544/6759/files/Curious_Creative_Approaches_to_Ingredient_Pairings_Part_1_Blog_1.jpg?v=1649199371",
-        "name": "Bibimbap",
-        "price": 15,
-        "kcal": 650,
-        "description": "Korean rice bowl with veggies, egg, and spicy sauce."
-      },
-      {
-        "id": "7",
-        "imageUrl": "https://cdn.realfakeblogs.com/36260a4a-d1b3-4ac8-8742-715c643a1081/normal/a92ebef6f53041cda9cbe4a1ba43adc5.jpg",
-        "name": "Pho",
-        "price": 14,
-        "kcal": 500,
-        "description": "Vietnamese noodle soup with beef and herbs."
-      },
-      {
-        "id": "8",
-        "imageUrl": "https://cdn.realfakeblogs.com/36260a4a-d1b3-4ac8-8742-715c643a1081/normal/b2d831e586dc49f3a28efef64a3a77c6.jpg",
-        "name": "Spring Rolls",
-        "price": 10,
-        "kcal": 400,
-        "description": "Fresh rolls with shrimp, veggies, and dipping sauce."
-      },
-      {
-        "id": "9",
-        "imageUrl": "https://gluten.org/wp-content/uploads/2023/04/asian-cuisine-1-1024x585.jpg",
-        "name": "Teriyaki Chicken",
-        "price": 16,
-        "kcal": 700,
-        "description": "Grilled chicken with teriyaki glaze and rice."
-      }
-    ],
-    "pasta": [
-      {
-        "id": "1",
-        "imageUrl": "https://images.aws.nestle.recipes/resized/0a0717810b73a1672a029c29788e557b_creamy_alfredo_pasta_long_left_1200_628.jpg",
-        "name": "Spaghetti Carbonara",
-        "price": 14,
-        "kcal": 550,
-        "description": "Classic Italian pasta with creamy egg sauce, pancetta, and Parmesan cheese."
-      },
-      {
-        "id": "2",
-        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/marry-me-pasta-index-65b7c910a7bbf.jpg?crop=0.6663926565282915xw:1xh;center,top&resize=1200:*",
-        "name": "Fettuccine Alfredo",
-        "price": 16,
-        "kcal": 670,
-        "description": "Rich and creamy Alfredo sauce over tender fettuccine noodles, topped with parsley."
-      },
-      {
-        "id": "3",
-        "imageUrl": "https://assets.epicurious.com/photos/5988e3458e3ab375fe3c0caf/1:1/w_3607,h_3607,c_limit/How-to-Make-Chicken-Alfredo-Pasta-hero-02082017.jpg",
-        "name": "Pesto Penne",
-        "price": 13,
-        "kcal": 480,
-        "description": "Fresh basil pesto sauce with penne pasta, cherry tomatoes, and pine nuts."
-      },
-      {
-        "id": "4",
-        "imageUrl": "https://www.allrecipes.com/thmb/mvO1mRRH1zTz1SvbwBCTz78CRJI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/67700_RichPastaforthePoorKitchen_ddmfs_4x3_2284-220302ec8328442096df370dede357d7.jpg",
-        "name": "Lasagna",
-        "price": 18,
-        "kcal": 750,
-        "description": "Layered pasta with ground beef, ricotta, marinara sauce, and melted mozzarella."
-      },
-      {
-        "id": "5",
-        "imageUrl": "https://www.theburntbuttertable.com/wp-content/uploads/2024/04/Creamy-Chicken-Pasta-2.jpg",
-        "name": "Shrimp Scampi",
-        "price": 20,
-        "kcal": 600,
-        "description": "Garlic butter shrimp served over linguine with a hint of lemon and parsley."
-      },
-      {
-        "id": "6",
-        "imageUrl": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2023-01-Caramelized-Tomato-Paste-Pasta%2F06-CARAMELIZED-TOMATO-PASTE-PASTA-039",
-        "name": "Creamy Chicken Pasta",
-        "price": 230,
-        "kcal": 600,
-        "description": "Garlic butter shrimp served over linguine with a hint of lemon and parsley."
-      }
-    ]
-  },
+  "products": [
+    {
+      "id": "1",
+      "imageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2015/10/pizza-recipe-1.jpg",
+      "name": "Cheese Burger",
+      "price": 20,
+      "kcal": 655,
+      "category": "pizza",
+      "description": "A juicy burger with melted cheese and fresh vegetables."
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://recipesblob.oetker.in/assets/d8a4b00c292a43adbb9f96798e028f01/1272x764/pizza-pollo-arrostojpg.webp",
+      "name": "Pepperoni Pizza",
+      "price": 18,
+      "category": "pizza",
+      "kcal": 700,
+      "description": "Classic pizza topped with pepperoni and mozzarella cheese."
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://www.cobsbread.com/wp-content/uploads/2022/09/Pepperoni-pizza-850x630-1-585x400-1.jpg",
+      "name": "Margherita Pizza",
+      "price": 16,
+      "category": "pizza",
+      "kcal": 600,
+      "description": "Simple and delicious pizza with tomatoes, mozzarella, and basil."
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://www.simplyrecipes.com/thmb/pjYMLcsKHkr8D8tYixmaFNxppPw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__09__easy-pepperoni-pizza-lead-3-8f256746d649404baa36a44d271329bc.jpg",
+      "name": "BBQ Chicken Pizza",
+      "price": 22,
+      "category": "pizza",
+      "kcal": 720,
+      "description": "Savory pizza with grilled chicken, BBQ sauce, and onions."
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://www.southernliving.com/thmb/3x3cJaiOvQ8-3YxtMQX0vvh1hQw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2652401_QFSSL_SupremePizza_00072-d910a935ba7d448e8c7545a963ed7101.jpg",
+      "name": "Veggie Pizza",
+      "price": 17,
+      "category": "pizza",
+      "kcal": 580,
+      "description": "Loaded with fresh vegetables and gooey cheese."
+    },
+    {
+      "id": "6",
+      "imageUrl": "https://i.ytimg.com/vi/g79YVb0Exx8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB8xqn22tdVDXdgo8Kzmz74GeMPvg",
+      "name": "Hawaiian Pizza",
+      "category": "pizza",
+      "price": 19,
+      "kcal": 650,
+      "description": "Sweet and salty combo of ham and pineapple."
+    },
+    {
+      "id": "7",
+      "imageUrl": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/1:1/w_2560%2Cc_limit/Smashburger-recipe-120219.jpg",
+      "name": "Classic Beef Burger",
+      "price": 15,
+      "kcal": 750,
+      "description": "Tender beef patty with lettuce, tomato, and special sauce."
+    },
+    {
+      "id": "8",
+      "imageUrl": "https://www.allrecipes.com/thmb/UsNtGp9OgIsKw6cPqGQ-CxLmnTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-72657-best-hamburger-ever-ddmfs-4x3-hero-878e801ab30445988d007461782b3c25.jpg",
+      "name": "Chicken Burger",
+      "price": 14,
+      "kcal": 680,
+      "description": "Crispy chicken patty with mayo and pickles."
+    },
+    {
+      "id": "9",
+      "imageUrl": "https://t4.ftcdn.net/jpg/02/74/99/01/360_F_274990113_ffVRBygLkLCZAATF9lWymzE6bItMVuH1.jpg",
+      "name": "Vegan Burger",
+      "price": 16,
+      "kcal": 550,
+      "description": "Plant-based burger with avocado and sprouts."
+    },
+    {
+      "id": "10",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ec1febb58a4890157c8fbeb/19ebb9ed-4862-46e1-9f7c-4e5876730227/Beetroot-Burger.jpg",
+      "name": "Bacon Burger",
+      "price": 18,
+      "kcal": 800,
+      "description": "Juicy burger with crispy bacon and cheddar cheese."
+    },
+    {
+      "id": "11",
+      "imageUrl": "https://www.allrecipes.com/thmb/UsNtGp9OgIsKw6cPqGQ-CxLmnTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-72657-best-hamburger-ever-ddmfs-4x3-hero-878e801ab30445988d007461782b3c25.jpg",
+      "name": "Mushroom Swiss Burger",
+      "price": 17,
+      "kcal": 720,
+      "description": "Burger topped with sautéed mushrooms and Swiss cheese."
+    },
+    {
+      "id": "12",
+      "imageUrl": "https://playswellwithbutter.com/wp-content/uploads/2023/08/Wisconsin-Butter-Burgers-12.jpg",
+      "name": "Spicy Jalapeño Burger",
+      "price": 19,
+      "kcal": 770,
+      "description": "Burger with spicy jalapeños and pepper jack cheese."
+    },
+    {
+      "id": "13",
+      "imageUrl": "https://fhafnb.com/wp-content/uploads/2023/12/Dim-Sum-China.jpg",
+      "name": "Pad Thai",
+      "price": 12,
+      "category": "asian cuisine",
+      "kcal": 500,
+      "description": "Stir-fried noodles with shrimp, peanuts, and lime."
+    },
+    {
+      "id": "14",
+      "imageUrl": "https://www.lakewoodranchmedicalcenter.com/sites/lakewoodranchmedicalcenter.com/files/chicken-soup-chinese-800x600.jpg",
+      "name": "Sushi Platter",
+      "category": "asian cuisine",
+      "price": 25,
+      "kcal": 650,
+      "description": "Assorted sushi rolls with soy sauce and wasabi."
+    },
+    {
+      "id": "15",
+      "imageUrl": "https://yourboulder.com/wp-content/uploads/2014/03/asian-food.jpg",
+      "name": "General Tso's Chicken",
+      "category": "asian cuisine",
+      "price": 14,
+      "kcal": 700,
+      "description": "Crispy chicken in a sweet and spicy sauce."
+    },
+    {
+      "id": "16",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D4D12AQHms6F-pcNR2g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1683198860500?e=2147483647&v=beta&t=_qRSCI5xNq-nocy4oHK9toJfFCTUg45rfqd8bGLqPfk",
+      "name": "Ramen",
+      "price": 13,
+      "category": "asian cuisine",
+      "kcal": 600,
+      "description": "Hot noodle soup with pork, egg, and vegetables."
+    },
+    {
+      "id": "17",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ed77949d651bd56c6f804a9285f7b0c0/aa13fff7e2466014ca51307be81e7738.jpeg",
+      "name": "Dim Sum",
+      "category": "asian cuisine",
+      "price": 20,
+      "kcal": 550,
+      "description": "Assorted dumplings with dipping sauces."
+    },
+    {
+      "id": "18",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0048/8544/6759/files/Curious_Creative_Approaches_to_Ingredient_Pairings_Part_1_Blog_1.jpg?v=1649199371",
+      "name": "Bibimbap",
+      "category": "asian cuisine",
+      "price": 15,
+      "kcal": 650,
+      "description": "Korean rice bowl with veggies, egg, and spicy sauce."
+    },
+    {
+      "id": "18",
+      "imageUrl": "https://cdn.realfakeblogs.com/36260a4a-d1b3-4ac8-8742-715c643a1081/normal/a92ebef6f53041cda9cbe4a1ba43adc5.jpg",
+      "name": "Pho",
+      "price": 14,
+      "category": "asian cuisine",
+      "kcal": 500,
+      "description": "Vietnamese noodle soup with beef and herbs."
+    },
+    {
+      "id": "19",
+      "imageUrl": "https://cdn.realfakeblogs.com/36260a4a-d1b3-4ac8-8742-715c643a1081/normal/b2d831e586dc49f3a28efef64a3a77c6.jpg",
+      "name": "Spring Rolls",
+      "price": 10,
+      "category": "asian cuisine",
+      "kcal": 400,
+      "description": "Fresh rolls with shrimp, veggies, and dipping sauce."
+    },
+    {
+      "id": "20",
+      "imageUrl": "https://gluten.org/wp-content/uploads/2023/04/asian-cuisine-1-1024x585.jpg",
+      "name": "Teriyaki Chicken",
+      "category": "asian cuisine",
+      "price": 16,
+      "kcal": 700,
+      "description": "Grilled chicken with teriyaki glaze and rice."
+    },
+    {
+      "id": "21",
+      "imageUrl": "https://images.aws.nestle.recipes/resized/0a0717810b73a1672a029c29788e557b_creamy_alfredo_pasta_long_left_1200_628.jpg",
+      "name": "Spaghetti Carbonara",
+      "price": 14,
+      "category": "pasta",
+      "kcal": 550,
+      "description": "Classic Italian pasta with creamy egg sauce, pancetta, and Parmesan cheese."
+    },
+    {
+      "id": "22",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/marry-me-pasta-index-65b7c910a7bbf.jpg?crop=0.6663926565282915xw:1xh;center,top&resize=1200:*",
+      "name": "Fettuccine Alfredo",
+      "category": "pasta",
+      "price": 16,
+      "kcal": 670,
+      "description": "Rich and creamy Alfredo sauce over tender fettuccine noodles, topped with parsley."
+    },
+    {
+      "id": "23",
+      "imageUrl": "https://assets.epicurious.com/photos/5988e3458e3ab375fe3c0caf/1:1/w_3607,h_3607,c_limit/How-to-Make-Chicken-Alfredo-Pasta-hero-02082017.jpg",
+      "name": "Pesto Penne",
+      "category": "pasta",
+      "price": 13,
+      "kcal": 480,
+      "description": "Fresh basil pesto sauce with penne pasta, cherry tomatoes, and pine nuts."
+    },
+    {
+      "id": "24",
+      "imageUrl": "https://www.allrecipes.com/thmb/mvO1mRRH1zTz1SvbwBCTz78CRJI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/67700_RichPastaforthePoorKitchen_ddmfs_4x3_2284-220302ec8328442096df370dede357d7.jpg",
+      "name": "Lasagna",
+      "price": 18,
+      "category": "pasta",
+      "kcal": 750,
+      "description": "Layered pasta with ground beef, ricotta, marinara sauce, and melted mozzarella."
+    },
+    {
+      "id": "25",
+      "imageUrl": "https://www.theburntbuttertable.com/wp-content/uploads/2024/04/Creamy-Chicken-Pasta-2.jpg",
+      "name": "Shrimp Scampi",
+      "category": "pasta",
+      "price": 20,
+      "kcal": 600,
+      "description": "Garlic butter shrimp served over linguine with a hint of lemon and parsley."
+    },
+    {
+      "id": "26",
+      "imageUrl": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2023-01-Caramelized-Tomato-Paste-Pasta%2F06-CARAMELIZED-TOMATO-PASTE-PASTA-039",
+      "name": "Creamy Chicken Pasta",
+      "category": "pasta",
+      "price": 230,
+      "kcal": 600,
+      "description": "Garlic butter shrimp served over linguine with a hint of lemon and parsley."
+    }
+  ],
 
   "reviews": [
     {
