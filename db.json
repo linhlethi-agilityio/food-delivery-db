@@ -78,6 +78,7 @@
       "name": "Classic Beef Burger",
       "price": 15,
       "kcal": 750,
+      "category": "burger",
       "description": "Tender beef patty with lettuce, tomato, and special sauce."
     },
     {
@@ -85,6 +86,7 @@
       "imageUrl": "https://www.allrecipes.com/thmb/UsNtGp9OgIsKw6cPqGQ-CxLmnTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-72657-best-hamburger-ever-ddmfs-4x3-hero-878e801ab30445988d007461782b3c25.jpg",
       "name": "Chicken Burger",
       "price": 14,
+      "category": "burger",
       "kcal": 680,
       "description": "Crispy chicken patty with mayo and pickles."
     },
@@ -92,6 +94,7 @@
       "id": "9",
       "imageUrl": "https://t4.ftcdn.net/jpg/02/74/99/01/360_F_274990113_ffVRBygLkLCZAATF9lWymzE6bItMVuH1.jpg",
       "name": "Vegan Burger",
+      "category": "burger",
       "price": 16,
       "kcal": 550,
       "description": "Plant-based burger with avocado and sprouts."
@@ -100,6 +103,7 @@
       "id": "10",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ec1febb58a4890157c8fbeb/19ebb9ed-4862-46e1-9f7c-4e5876730227/Beetroot-Burger.jpg",
       "name": "Bacon Burger",
+      "category": "burger",
       "price": 18,
       "kcal": 800,
       "description": "Juicy burger with crispy bacon and cheddar cheese."
@@ -109,6 +113,7 @@
       "imageUrl": "https://www.allrecipes.com/thmb/UsNtGp9OgIsKw6cPqGQ-CxLmnTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-72657-best-hamburger-ever-ddmfs-4x3-hero-878e801ab30445988d007461782b3c25.jpg",
       "name": "Mushroom Swiss Burger",
       "price": 17,
+      "category": "burger",
       "kcal": 720,
       "description": "Burger topped with sautéed mushrooms and Swiss cheese."
     },
@@ -117,6 +122,7 @@
       "imageUrl": "https://playswellwithbutter.com/wp-content/uploads/2023/08/Wisconsin-Butter-Burgers-12.jpg",
       "name": "Spicy Jalapeño Burger",
       "price": 19,
+      "category": "burger",
       "kcal": 770,
       "description": "Burger with spicy jalapeños and pepper jack cheese."
     },
