@@ -15,6 +15,11 @@
       "name": "Jennifer Kim",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non elementum eros, elit velit dolor, volutpat, parturient. In egestas vitae proin commodo senectus. Leo nam aenean tristique sollicitudin auctor nisi. Venenatis viverra platea est turpis dui placerat massa in. Eu et risus, porttitor quis orci ut. Morbi tincidunt diam ac nisi, sapien leo elementum amet mauris. Tincidunt egestas mauris facilisis nisi. Mi bibendum porttitor varius purus nisi, at dignissim leo. Sed auctor vel pellentesque vestibulum. ",
       "id": "2"
+    },
+    {
+      "email": "been@gmail.com",
+      "password": "$2a$10$9w5lljR44o2tG1rJi6gqEOwyJ3S6tVShRIH4juooef8mtEPLYFGQi",
+      "id": "E9f3FLB"
     }
   ],
   "products": [
@@ -262,7 +267,6 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     }
   ],
-
   "reviews": [
     {
       "id": 1,
