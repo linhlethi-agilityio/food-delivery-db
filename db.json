@@ -25,7 +25,7 @@
       "price": 20,
       "kcal": 655,
       "category": "pizza",
-      "description": "A juicy burger with melted cheese and fresh vegetables."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "2",
@@ -34,7 +34,7 @@
       "price": 18,
       "category": "pizza",
       "kcal": 700,
-      "description": "Classic pizza topped with pepperoni and mozzarella cheese."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "3",
@@ -43,7 +43,7 @@
       "price": 16,
       "category": "pizza",
       "kcal": 600,
-      "description": "Simple and delicious pizza with tomatoes, mozzarella, and basil."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "4",
@@ -52,7 +52,7 @@
       "price": 22,
       "category": "pizza",
       "kcal": 720,
-      "description": "Savory pizza with grilled chicken, BBQ sauce, and onions."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "5",
@@ -61,7 +61,7 @@
       "price": 17,
       "category": "pizza",
       "kcal": 580,
-      "description": "Loaded with fresh vegetables and gooey cheese."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "6",
@@ -70,7 +70,7 @@
       "category": "pizza",
       "price": 19,
       "kcal": 650,
-      "description": "Sweet and salty combo of ham and pineapple."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "7",
@@ -79,7 +79,7 @@
       "price": 15,
       "kcal": 750,
       "category": "burger",
-      "description": "Tender beef patty with lettuce, tomato, and special sauce."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "8",
@@ -88,7 +88,7 @@
       "price": 14,
       "category": "burger",
       "kcal": 680,
-      "description": "Crispy chicken patty with mayo and pickles."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "9",
@@ -97,7 +97,7 @@
       "category": "burger",
       "price": 16,
       "kcal": 550,
-      "description": "Plant-based burger with avocado and sprouts."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "10",
@@ -106,7 +106,7 @@
       "category": "burger",
       "price": 18,
       "kcal": 800,
-      "description": "Juicy burger with crispy bacon and cheddar cheese."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "11",
@@ -115,7 +115,7 @@
       "price": 17,
       "category": "burger",
       "kcal": 720,
-      "description": "Burger topped with sautéed mushrooms and Swiss cheese."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "12",
@@ -124,7 +124,7 @@
       "price": 19,
       "category": "burger",
       "kcal": 770,
-      "description": "Burger with spicy jalapeños and pepper jack cheese."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "13",
@@ -133,7 +133,7 @@
       "price": 12,
       "category": "asian cuisine",
       "kcal": 500,
-      "description": "Stir-fried noodles with shrimp, peanuts, and lime."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "14",
@@ -142,7 +142,7 @@
       "category": "asian cuisine",
       "price": 25,
       "kcal": 650,
-      "description": "Assorted sushi rolls with soy sauce and wasabi."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "15",
@@ -151,7 +151,7 @@
       "category": "asian cuisine",
       "price": 14,
       "kcal": 700,
-      "description": "Crispy chicken in a sweet and spicy sauce."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "16",
@@ -160,7 +160,7 @@
       "price": 13,
       "category": "asian cuisine",
       "kcal": 600,
-      "description": "Hot noodle soup with pork, egg, and vegetables."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "17",
@@ -169,7 +169,7 @@
       "category": "asian cuisine",
       "price": 20,
       "kcal": 550,
-      "description": "Assorted dumplings with dipping sauces."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "18",
@@ -178,7 +178,7 @@
       "category": "asian cuisine",
       "price": 15,
       "kcal": 650,
-      "description": "Korean rice bowl with veggies, egg, and spicy sauce."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "19",
@@ -187,7 +187,7 @@
       "price": 14,
       "category": "asian cuisine",
       "kcal": 500,
-      "description": "Vietnamese noodle soup with beef and herbs."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "20",
@@ -196,7 +196,7 @@
       "price": 10,
       "category": "asian cuisine",
       "kcal": 400,
-      "description": "Fresh rolls with shrimp, veggies, and dipping sauce."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "21",
@@ -205,7 +205,7 @@
       "category": "asian cuisine",
       "price": 16,
       "kcal": 700,
-      "description": "Grilled chicken with teriyaki glaze and rice."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "22",
@@ -214,7 +214,7 @@
       "price": 14,
       "category": "pasta",
       "kcal": 550,
-      "description": "Classic Italian pasta with creamy egg sauce, pancetta, and Parmesan cheese."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "23",
@@ -223,7 +223,7 @@
       "category": "pasta",
       "price": 16,
       "kcal": 670,
-      "description": "Rich and creamy Alfredo sauce over tender fettuccine noodles, topped with parsley."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "24",
@@ -232,7 +232,7 @@
       "category": "pasta",
       "price": 13,
       "kcal": 480,
-      "description": "Fresh basil pesto sauce with penne pasta, cherry tomatoes, and pine nuts."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "25",
@@ -241,7 +241,7 @@
       "price": 18,
       "category": "pasta",
       "kcal": 750,
-      "description": "Layered pasta with ground beef, ricotta, marinara sauce, and melted mozzarella."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "26",
@@ -250,7 +250,7 @@
       "category": "pasta",
       "price": 20,
       "kcal": 600,
-      "description": "Garlic butter shrimp served over linguine with a hint of lemon and parsley."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     },
     {
       "id": "27",
@@ -259,7 +259,7 @@
       "category": "pasta",
       "price": 230,
       "kcal": 600,
-      "description": "Garlic butter shrimp served over linguine with a hint of lemon and parsley."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ante ullamcorper massa, sit aliquam integer. Urna, sociis at dolor pharetra. Risus adipiscing arcu purus nunc facilisi. Elit ut felis faucibus facilisi ipsum nibh pretium a."
     }
   ],
 
