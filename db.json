@@ -3,18 +3,18 @@
     {
       "email": "admin@gmail.com",
       "password": "Admin@123",
-      "createdAt": 1709407999762,
-      "updatedAt": 1709407999762,
+      "avatarUrl": "https://cdn.kona-blue.com/upload/kona-blue_com/post/images/2024/09/19/463/anh-con-gai-avatar-cute-4.jpg",
       "name": "Jons Jam",
-      "id": "e72d"
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non elementum eros, elit velit dolor, volutpat, parturient. In egestas vitae proin commodo senectus. Leo nam aenean tristique sollicitudin auctor nisi. Venenatis viverra platea est turpis dui placerat massa in. Eu et risus, porttitor quis orci ut. Morbi tincidunt diam ac nisi, sapien leo elementum amet mauris. Tincidunt egestas mauris facilisis nisi. Mi bibendum porttitor varius purus nisi, at dignissim leo. Sed auctor vel pellentesque vestibulum. ",
+      "id": "1"
     },
     {
       "email": "user@gmail.com",
       "password": "Admin@123",
-      "createdAt": 1709407999762,
-      "updatedAt": 1709407999762,
+      "avatarUrl": "https://cdn.kona-blue.com/upload/kona-blue_com/post/images/2024/09/19/463/anh-con-gai-avatar-cute-4.jpg",
       "name": "Jennifer Kim",
-      "id": "e71d"
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non elementum eros, elit velit dolor, volutpat, parturient. In egestas vitae proin commodo senectus. Leo nam aenean tristique sollicitudin auctor nisi. Venenatis viverra platea est turpis dui placerat massa in. Eu et risus, porttitor quis orci ut. Morbi tincidunt diam ac nisi, sapien leo elementum amet mauris. Tincidunt egestas mauris facilisis nisi. Mi bibendum porttitor varius purus nisi, at dignissim leo. Sed auctor vel pellentesque vestibulum. ",
+      "id": "2"
     }
   ],
   "products": [
