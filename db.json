@@ -2,7 +2,7 @@
   "users": [
     {
       "email": "admin@gmail.com",
-      "password": "BenjoA2345",
+      "password": "Admin@123",
       "createdAt": 1709407999762,
       "updatedAt": 1709407999762,
       "name": "Jons Jam",
@@ -10,7 +10,7 @@
     },
     {
       "email": "user@gmail.com",
-      "password": "BenjoA2345",
+      "password": "Admin@123",
       "createdAt": 1709407999762,
       "updatedAt": 1709407999762,
       "name": "Jennifer Kim",
