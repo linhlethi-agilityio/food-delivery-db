@@ -1,13 +1,15 @@
 const jsonServer = require('json-server');
 const auth = require('json-server-auth');
-
 const server = jsonServer.create();
 const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
-const port = process.env.PORT || 3000;
+
+server.db = router.db; // Needed for `json-server-auth`
 
 server.use(middlewares);
-server.use(router);
 server.use(auth);
+server.use(router);
 
-server.listen(port);
+server.listen(3000, () => {
+  console.log('JSON Server is running on http://localhost:3000');
+});
