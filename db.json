@@ -20,6 +20,11 @@
       "email": "been@gmail.com",
       "password": "$2a$10$9w5lljR44o2tG1rJi6gqEOwyJ3S6tVShRIH4juooef8mtEPLYFGQi",
       "id": "E9f3FLB"
+    },
+    {
+      "email": "admin99@gmail.com",
+      "password": "$2a$10$Qjqq.4HMxmJ.3THZjLHamOVD.C/SmYjTfYf1h92BtPz/DG3WZT/f6",
+      "id": "Zzq2mrc"
     }
   ],
   "products": [
@@ -292,5 +297,6 @@
       "rating": 3.5,
       "feedback": "Really fast delivery and a food was totaly great. I can totaly recommend this food delivery app. Thank you guys!"
     }
-  ]
+  ],
+  "cart": []
 }
