@@ -1387,5 +1387,13 @@
       "feedback": "Really fast delivery and a food was totaly great. I can totaly recommend this food delivery app. Thank you guys!"
     }
   ],
-  "cart": []
+  "cart": [],
+  "device-tokens": [
+    {
+      "id": 0,
+      "email": "hero@gmail.com",
+      "device-token": "acb123",
+      "createdAt": 12345678
+    }
+  ]
 }
