@@ -29,7 +29,7 @@
       "rating": 4,
       "ratingCount": 50,
       "widthRatio": 1,
-      "heightRatio": 1.2
+      "heightRatio": 3.6
     },
     {
       "name": "Minimal Stand",
@@ -53,7 +53,7 @@
       "rating": 5,
       "ratingCount": 50,
       "widthRatio": 1,
-      "heightRatio": 1.8
+      "heightRatio": 4.4
     },
     {
       "name": "Coffee Chair",
@@ -73,7 +73,7 @@
       "rating": 5,
       "ratingCount": 500,
       "widthRatio": 1,
-      "heightRatio": 1.5
+      "heightRatio": 3.6
     },
     {
       "name": "Minimal Desk",
@@ -129,7 +129,7 @@
       "rating": 4,
       "ratingCount": 120,
       "widthRatio": 1,
-      "heightRatio": 2.0
+      "heightRatio": 3.6
     },
     {
       "name": "Waterbed",
@@ -153,7 +153,7 @@
       "rating": 4,
       "ratingCount": 50,
       "widthRatio": 1,
-      "heightRatio": 1.2
+      "heightRatio": 4.4
     },
     {
       "name": "Headboard",
@@ -177,7 +177,7 @@
       "rating": 5,
       "ratingCount": 50,
       "widthRatio": 1,
-      "heightRatio": 1.8
+      "heightRatio": 3.6
     },
     {
       "name": "Rocking chair",
@@ -197,7 +197,7 @@
       "rating": 5,
       "ratingCount": 500,
       "widthRatio": 1,
-      "heightRatio": 1.5
+      "heightRatio": 4.4
     },
     {
       "name": "Chaise longue",
@@ -225,7 +225,7 @@
       "rating": 3,
       "ratingCount": 10,
       "widthRatio": 1,
-      "heightRatio": 2.0
+      "heightRatio": 3.6
     },
     {
       "name": "Bean bag chair",
@@ -253,7 +253,7 @@
       "rating": 4,
       "ratingCount": 120,
       "widthRatio": 1,
-      "heightRatio": 1.2
+      "heightRatio": 4.4
     },
     {
       "name": "Ottoman",
@@ -281,7 +281,7 @@
       "rating": 4,
       "ratingCount": 120,
       "widthRatio": 1,
-      "heightRatio": 1.8
+      "heightRatio": 3.6
     },
     {
       "name": "banjo clock",
@@ -309,7 +309,7 @@
       "rating": 4,
       "ratingCount": 120,
       "widthRatio": 1,
-      "heightRatio": 1.5
+      "heightRatio": 4.4
     },
     {
       "name": "carrel",
@@ -337,7 +337,7 @@
       "rating": 4,
       "ratingCount": 120,
       "widthRatio": 1,
-      "heightRatio": 2.0
+      "heightRatio": 3.6
     },
     {
       "name": "candlestand",
@@ -1344,6 +1344,30 @@
       "heightRatio": 4.4
     },
     {
+      "id": "54",
+      "name": "Product 54",
+      "price": 62,
+      "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home.",
+      "images": [
+        {
+          "id": "1",
+          "image": "https://rnb.scene7.com/is/image/roomandboard/MHH_Liv_ES1021_0523?size=900,900&scl=1"
+        },
+        {
+          "id": "2",
+          "image": "https://craftsmill.in/cdn/shop/files/CurvySofa8.jpg?crop=center&height=2000&v=1732108465&width=2000"
+        },
+        {
+          "id": "3",
+          "image": "https://www.mobelhomestore.com/cdn/shop/files/helbrp.jpg?v=1703153580"
+        }
+      ],
+      "rating": 4,
+      "ratingCount": 64,
+      "widthRatio": 1,
+      "heightRatio": 3.6
+    },
+    {
       "id": "55",
       "name": "Product 55",
       "price": 67,
@@ -1365,7 +1389,7 @@
       "rating": 4,
       "ratingCount": 13,
       "widthRatio": 1,
-      "heightRatio": 3.6
+      "heightRatio": 4.4
     },
     {
       "id": "56",
@@ -1389,8 +1413,33 @@
       "rating": 4,
       "ratingCount": 143,
       "widthRatio": 1,
+      "heightRatio": 3.6
+    },
+    {
+      "id": "557",
+      "name": "Product 57",
+      "price": 71,
+      "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home.",
+      "images": [
+        {
+          "id": "1",
+          "image": "https://rnb.scene7.com/is/image/roomandboard/MHH_Liv_ES1021_0523?size=900,900&scl=1"
+        },
+        {
+          "id": "2",
+          "image": "https://craftsmill.in/cdn/shop/files/CurvySofa8.jpg?crop=center&height=2000&v=1732108465&width=2000"
+        },
+        {
+          "id": "3",
+          "image": "https://www.mobelhomestore.com/cdn/shop/files/helbrp.jpg?v=1703153580"
+        }
+      ],
+      "rating": 5,
+      "ratingCount": 176,
+      "widthRatio": 1,
       "heightRatio": 4.4
     },
+
     {
       "id": "57",
       "name": "Product 57",
