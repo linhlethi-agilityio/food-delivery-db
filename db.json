@@ -29,7 +29,7 @@
       "rating": 4,
       "ratingCount": 50,
       "widthRatio": 1,
-      "heightRatio": 3.6
+      "heightRatio": 1.2
     },
     {
       "name": "Minimal Stand",
@@ -53,7 +53,7 @@
       "rating": 5,
       "ratingCount": 50,
       "widthRatio": 1,
-      "heightRatio": 4.4
+      "heightRatio": 1.8
     },
     {
       "name": "Coffee Chair",
@@ -73,7 +73,7 @@
       "rating": 5,
       "ratingCount": 500,
       "widthRatio": 1,
-      "heightRatio": 3.6
+      "heightRatio": 1.5
     },
     {
       "name": "Minimal Desk",
@@ -129,7 +129,7 @@
       "rating": 4,
       "ratingCount": 120,
       "widthRatio": 1,
-      "heightRatio": 3.6
+      "heightRatio": 2.0
     },
     {
       "name": "Waterbed",
@@ -153,7 +153,7 @@
       "rating": 4,
       "ratingCount": 50,
       "widthRatio": 1,
-      "heightRatio": 4.4
+      "heightRatio": 1.2
     },
     {
       "name": "Headboard",
@@ -177,7 +177,7 @@
       "rating": 5,
       "ratingCount": 50,
       "widthRatio": 1,
-      "heightRatio": 3.6
+      "heightRatio": 1.8
     },
     {
       "name": "Rocking chair",
@@ -197,7 +197,7 @@
       "rating": 5,
       "ratingCount": 500,
       "widthRatio": 1,
-      "heightRatio": 4.4
+      "heightRatio": 1.5
     },
     {
       "name": "Chaise longue",
@@ -225,7 +225,7 @@
       "rating": 3,
       "ratingCount": 10,
       "widthRatio": 1,
-      "heightRatio": 3.6
+      "heightRatio": 2.0
     },
     {
       "name": "Bean bag chair",
@@ -253,7 +253,7 @@
       "rating": 4,
       "ratingCount": 120,
       "widthRatio": 1,
-      "heightRatio": 4.4
+      "heightRatio": 1.2
     },
     {
       "name": "Ottoman",
@@ -281,7 +281,7 @@
       "rating": 4,
       "ratingCount": 120,
       "widthRatio": 1,
-      "heightRatio": 3.6
+      "heightRatio": 1.8
     },
     {
       "name": "banjo clock",
@@ -309,7 +309,7 @@
       "rating": 4,
       "ratingCount": 120,
       "widthRatio": 1,
-      "heightRatio": 4.4
+      "heightRatio": 1.5
     },
     {
       "name": "carrel",
@@ -337,7 +337,7 @@
       "rating": 4,
       "ratingCount": 120,
       "widthRatio": 1,
-      "heightRatio": 3.6
+      "heightRatio": 2.0
     },
     {
       "name": "candlestand",
